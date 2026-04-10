@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Ishan Pandey
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hi 👋, I'm Ishan 
+**A passionate Backend Developer || A prfessional UI/UX designer || Database Manager**
 
 Email Me 👉 ✉️ **ishanpandey066@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
